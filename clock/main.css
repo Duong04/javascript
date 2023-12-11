@@ -1,0 +1,18 @@
+body {
+    background: black;
+}
+
+.clock {
+    padding: 10px 30px;
+    box-shadow: 0 0 15px #eeeded;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: 'Ranchers', cursive;
+    letter-spacing: 7px;
+}
+
